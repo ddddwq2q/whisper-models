@@ -1,0 +1,1 @@
+Whisper Const-me uses models from Whisper.cpp
